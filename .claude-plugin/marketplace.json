@@ -1,0 +1,14 @@
+{
+  "name": "nstack",
+  "owner": { "name": "nishant-gh" },
+  "metadata": {
+    "description": "Claude Code plugins and skills for everyday use."
+  },
+  "plugins": [
+    {
+      "name": "assistant-team-setup",
+      "source": "./plugins/assistant-team-setup",
+      "description": "Sets up and maintains a local team of persistent assistants in Claude Code, with shared Markdown memory."
+    }
+  ]
+}

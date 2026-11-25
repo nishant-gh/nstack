@@ -1,0 +1,7 @@
+{
+  "name": "assistant-team-setup",
+  "version": "1.0.0",
+  "description": "Sets up and maintains a local team of persistent assistants in Claude Code, for personal life, work or both, with broad domains and shared Markdown memory.",
+  "author": { "name": "nishant-gh" },
+  "keywords": ["assistants", "memory", "team", "personal"]
+}
